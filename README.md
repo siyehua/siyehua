@@ -21,14 +21,11 @@ Wish you a good-looking profile README!
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=siyehua&theme=dark&show_icons=true">](https://metrics.lecoq.io/siyehua?template=classic)
 
-I'm Y**ou** Y**u**f**an**, a freshman at THU.
+I'm Y**ou** Y**u**f**an**, a develpoer in GuangZhou.
 
 -   :hammer_and_pick: Java / Kotlin / Dart / C / C++ / GitHub Actions / Python / Switf
--   :platforms: Android / Flutter
--   :seedling: Taking courses & doing assignments at THU
--   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
--   :man: Pronouns: he/him
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/siyehua.gpg)
+-   :seedling: Android / Flutter
+
 
 
 #### :bar_chart: Weekly development breakdown
