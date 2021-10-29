@@ -21,7 +21,7 @@ Wish you a good-looking profile README!
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=siyehua&theme=dark&show_icons=true">](https://metrics.lecoq.io/siyehua?template=classic)
 
-I'm Y**ou** Y**u**f**an**, a develpoer in GuangZhou.
+I'm Y**ou**r **Fans**, a develpoer in GuangZhou.
 
 -   :hammer_and_pick: Java / Kotlin / Dart / C / C++ / GitHub Actions / Python / Switf
 -   :seedling: Android / Flutter
