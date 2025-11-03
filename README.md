@@ -23,7 +23,7 @@ Wish you a good-looking profile README!
 
 I'm Y**ou**r **Fans**, a develpoer in GuangZhou.
 
--   :hammer_and_pick: Java / Kotlin / Dart / Rust / C / C++ / GitHub Actions / Python / Swift / JavaScript / TypeScript / CSS / HTML
--   :seedling: Android / Flutter / Web / Rust / Stable Diffusion / AIGC / AI Draw
+-   :hammer_and_pick: Java / Kotlin / Dart / Rust / C / C++ / Shell / Python / Swift / JavaScript / TypeScript / CSS / HTML
+-   :seedling: Android / Flutter / Web / Rust / Stable Diffusion / AIGC / AI Draw / AI
 
 
